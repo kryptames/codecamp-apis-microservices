@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Nanthawan Hanvinyanan",
+	"description": "A project that use to learn about apis and microservices ref by freeCpdeCamp",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kryptames/codecamp-apis-microservices.git"
+	}
+}
